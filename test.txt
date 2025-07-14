@@ -1,4 +1,4 @@
-
+AUB
 student
 btech
 cse
@@ -6,4 +6,4 @@ AIML
 data analysist
 date:july 7 2025
 day:monday
-
+cse IOT
