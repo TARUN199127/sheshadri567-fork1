@@ -5,3 +5,4 @@ cse
 AIML
 CSE IOT
 robotics
+data analyst
