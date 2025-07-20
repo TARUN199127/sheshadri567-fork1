@@ -6,5 +6,4 @@ AIML
 data analysist
 date:july 7 2025
 day:monday
-CSE IOT
-robotics
+i
